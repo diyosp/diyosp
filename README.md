@@ -45,8 +45,9 @@
 <!-- Option B: GitHub Readme Stats (self-hosted agar count_private berfungsi) -->
 <!-- Ganti YOUR-VERCEL-APP dengan domain vercel kamu bila sudah self-host -->
 ### GitHub Stats
-![Stats](https://github-readme-stats-YOUR-VERCEL-APP.vercel.app/api?username=diyosp&show_icons=true&count_private=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats-YOUR-VERCEL-APP.vercel.app/api/top-langs/?username=diyosp&layout=compact&langs_count=8&hide=html,css&theme=tokyonight)
+![Stats](https://github-readme-stats-diyosp.vercel.app/api?username=diyosp&show_icons=true&count_private=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats-diyosp.vercel.app/api/top-langs/?username=diyosp&layout=compact&langs_count=8&hide=html,css&theme=tokyonight)
 
 <!-- Option C: Streak (tidak perlu hosting; tidak selalu hitung private detail) -->
 ### Streak

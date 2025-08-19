@@ -36,13 +36,15 @@
 
 ## 📊 Stats & Activity
 
+### GitHub Stats (private included)
+![Stats](/github-metrics-stats.svg)
 
-![Metrics](/github-metrics.svg)
+### Most Used Languages (private included)
+![Langs](/github-metrics-langs.svg)
 
-
-<!-- Option C: Streak (tidak perlu hosting; tidak selalu hitung private detail) -->
 ### Streak
 ![Streak](https://streak-stats.demolab.com?user=diyosp&theme=tokyonight&hide_current_streak=true)
+
 
 ---
 

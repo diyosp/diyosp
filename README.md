@@ -56,8 +56,8 @@
 
 ## 📬 Contact
 - 🏡 Sukabumi, Indonesia  
-- ✉️ Email: **(opsional)**  
-- 🔗 LinkedIn: **(opsional)**
+- ✉️ Email: **diyosukmapradana@gmail.com**  
+- 🔗 LinkedIn: **(tes)**
 
 ---
 

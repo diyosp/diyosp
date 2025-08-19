@@ -37,17 +37,6 @@
 
 ## 📊 Stats & Activity
 
-<!-- Option A: Metrics (private contributions supported via GitHub Actions) -->
-<!-- Hasilkan file /github-metrics.svg via lowlighter/metrics workflow -->
-### Profile Metrics
-![Metrics](/github-metrics.svg)
-
-<!-- Option B: GitHub Readme Stats (self-hosted agar count_private berfungsi) -->
-<!-- Ganti YOUR-VERCEL-APP dengan domain vercel kamu bila sudah self-host -->
-### GitHub Stats
-![Stats](https://github-readme-stats-diyosp.vercel.app/api?username=diyosp&show_icons=true&count_private=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats-diyosp.vercel.app/api/top-langs/?username=diyosp&layout=compact&langs_count=8&hide=html,css&theme=tokyonight)
 
 <!-- Option C: Streak (tidak perlu hosting; tidak selalu hitung private detail) -->
 ### Streak
@@ -58,7 +47,7 @@
 ## 📬 Contact
 - 🏡 Sukabumi, Indonesia  
 - ✉️ Email: **diyosukmapradana@gmail.com**  
-- 🔗 LinkedIn: **(tes)**
+- 🔗 LinkedIn: **[(Profil)](https://www.linkedin.com/in/diyo-sukma/)**
 
 ---
 

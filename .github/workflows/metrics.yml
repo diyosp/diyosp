@@ -1,24 +1,48 @@
 name: Metrics
 on:
   schedule:
-    - cron: "0 */12 * * *"   # update tiap 12 jam
+    - cron: "0 */12 * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      # ---- LANGUAGES ONLY (private ikut kehitung) ----
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.METRICS_TOKEN }}
           user: diyosp
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: ""                          # hilangkan semua section bawaan
+          filename: github-metrics-langs.svg
           config_timezone: Asia/Jakarta
-          # Boleh tambah nama/alias author commitmu di sini biar pencocokan rapi:
-          commits_authoring: diyosp, Diyo Sukma Pradana
+
           plugin_languages: yes
-          plugin_languages_ignored: html, css
+          plugin_languages_sections: most-used
           plugin_languages_details: percentage
-          plugin_followup: yes
-          plugin_stars: yes
+          plugin_languages_limit: 8
+          plugin_languages_ignored: html, css
+
+      # ---- STATS RINGKAS (header + kontribusi tahunan) ----
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.METRICS_TOKEN }}
+          user: diyosp
+          template: classic
+          base: header                       # cuma header ringkas
+          filename: github-metrics-stats.svg
+          config_timezone: Asia/Jakarta
+
+          # Tambahan: tampilkan total kontribusi (mirip stats card)
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+          # Opsional: tampilkan ringkasan Issue/PR (kalau mau)
+          # plugin_followup: yes
+          # plugin_followup_sections: user

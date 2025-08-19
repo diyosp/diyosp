@@ -36,10 +36,10 @@
 
 ## 📊 Stats & Activity
 
-### GitHub Stats (private included)
+### GitHub Stats
 ![Stats](/github-metrics-stats.svg)
 
-### Most Used Languages (private included)
+### Most Used Languages
 ![Langs](/github-metrics-langs.svg)
 
 ### Streak

@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there 👋 I'm Diyo Sukma
 
-<!--
-**diyosp/diyosp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 Currently working as **IT Staff at Perumda BPR Sukabumi**  
+💻 I develop and maintain applications to support operational needs, mainly using **Laravel** and **Python**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🌱 I’m currently learning more about **API integration, automation, and secure web applications**  
+- 🛠️ I love building internal tools that make workflows easier for teams  
+- 📊 Interested in combining IT solutions with financial operations  
+
+---
+
+### 🧰 Tech Stack
+- **Languages & Frameworks**: PHP (Laravel), Python, JavaScript  
+- **Database**: MySQL, SQL Server  
+- **Other Tools**: Git, REST API, DataTables, Bootstrap  
+
+---
+
+### 📈 GitHub Stats
+![Diyo's GitHub stats](https://github-readme-stats.vercel.app/api?username=diyosp&show_icons=true&theme=tokyonight)  
+
+---
+
+### 🌐 Connect with Me
+- 📍 Sukabumi, Indonesia  
+- ✉️ Email: *diyosukmapradana@gmail.com*

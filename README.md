@@ -15,7 +15,6 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
 ![DataTables](https://img.shields.io/badge/DataTables-1F1F1F?logo=jquery&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-000000?logo=linux&logoColor=white)
 
 ---
 
@@ -36,6 +35,9 @@
 ---
 
 ## 📊 Stats & Activity
+
+
+![Metrics](/github-metrics.svg)
 
 
 <!-- Option C: Streak (tidak perlu hosting; tidak selalu hitung private detail) -->

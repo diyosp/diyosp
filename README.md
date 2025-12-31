@@ -42,10 +42,6 @@
 ### Most Used Languages
 ![Langs](/github-metrics-langs.svg)
 
-### Streak
-![Streak](https://streak-stats.demolab.com?user=diyosp&theme=tokyonight&hide_current_streak=true)
-
-
 ---
 
 ## 📬 Contact
